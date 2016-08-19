@@ -1,0 +1,15 @@
+newmtl initialShadingGroup
+Ka 0 0 0
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 127
+newmtl lambert2SG
+Ka 0 0 0
+Kd 1 0 0
+Ks 0 0 0
+Ns 127
+newmtl lambert5SG
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 127
