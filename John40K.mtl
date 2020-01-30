@@ -1,0 +1,9 @@
+newmtl mat_0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+d 1
+Ns 100
+map_Kd ./John40K_map0.jpg
+map_Ka ./John40K_map0.jpg
+
